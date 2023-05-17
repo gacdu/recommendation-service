@@ -17,6 +17,11 @@
 # pip install flask
 ```
 
+#### 生成项目依赖包文件
+```bash
+# make reqs
+```
+
 #### 运行项目
 ```bash
 # make run
